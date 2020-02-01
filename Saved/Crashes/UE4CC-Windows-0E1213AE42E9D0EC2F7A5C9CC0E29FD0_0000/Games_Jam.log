@@ -1,0 +1,1152 @@
+﻿Log file open, 02/01/20 14:47:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Games_Jam
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.416630
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.780s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.120s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [U:/GameJam/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [U:/GameJam/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.02.01-14.47.36:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [U:/GameJam/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [U:/GameJam/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.01-14.47.36:808][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.01-14.47.36:809][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [U:/GameJam/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.02.01-14.47.36:809][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [U:/GameJam/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.02.01-14.47.36:824][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/GameJam/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/GameJam/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/GameJam/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/GameJam/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.01-14.47.36:824][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/GameJam/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/GameJam/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/GameJam/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.01-14.47.36:825][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.01-14.47.36:825][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.01-14.47.36:825][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.01-14.47.36:941][  0]LogHAL: Display: Platform has ~ 32 GB [34271838208 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.02.01-14.47.36:941][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.01-14.47.36:941][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/GameJam/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/GameJam/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/GameJam/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/GameJam/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/GameJam/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.01-14.47.36:941][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/GameJam/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/GameJam/GameJam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.01-14.47.36:942][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.01-14.47.36:942][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [U:/GameJam/GameJam/Saved/Config/Windows/Engine.ini]
+[2020.02.01-14.47.36:942][  0]LogInit: Computer: TU45337
+[2020.02.01-14.47.36:942][  0]LogInit: User: t7040101
+[2020.02.01-14.47.36:942][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.02.01-14.47.36:943][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.01-14.47.36:943][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.02.01-14.47.36:943][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.01-14.47.36:943][  0]LogMemory: Process Physical Memory: 104.74 MB used, 104.75 MB peak
+[2020.02.01-14.47.36:943][  0]LogMemory: Process Virtual Memory: 86.70 MB used, 86.70 MB peak
+[2020.02.01-14.47.36:943][  0]LogMemory: Physical Memory: 4065.43 MB used,  28618.75 MB free, 32684.17 MB total
+[2020.02.01-14.47.36:943][  0]LogMemory: Virtual Memory: 4664.01 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.02.01-14.47.36:976][  0]LogInit: Using OS detected language (en-GB).
+[2020.02.01-14.47.36:976][  0]LogInit: Using OS detected locale (en-GB).
+[2020.02.01-14.47.36:978][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.02.01-14.47.37:355][  0]LogStreaming: Display: Took  0.378s to InitEngineTextLocalization.
+[2020.02.01-14.47.37:355][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.01-14.47.37:467][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.01-14.47.37:467][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.01-14.47.37:717][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.01-14.47.37:717][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.01-14.47.37:787][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2020.02.01-14.47.37:788][  0]LogD3D11RHI:       6097/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.01-14.47.37:791][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.01-14.47.37:791][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.01-14.47.37:791][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.01-14.47.37:796][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.01-14.47.37:796][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.01-14.47.37:796][  0]LogWindows: EnumDisplayDevices:
+[2020.02.01-14.47.37:796][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2020.02.01-14.47.37:797][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2020.02.01-14.47.37:798][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2020.02.01-14.47.37:798][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2020.02.01-14.47.37:799][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.01-14.47.37:799][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2020.02.01-14.47.37:799][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2020.02.01-14.47.37:799][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2020.02.01-14.47.37:799][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2020.02.01-14.47.37:836][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.01-14.47.37:852][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.02.01-14.47.38:488][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.02.01-14.47.38:518][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.02.01-14.47.38:549][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.02.01-14.47.38:565][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.02.01-14.47.38:580][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.02.01-14.47.38:595][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.02.01-14.47.38:610][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.02.01-14.47.38:625][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.02.01-14.47.38:632][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:710][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-14.47.38:712][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.02.01-14.47.38:779][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.02.01-14.47.38:779][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.02.01-14.47.38:805][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.02.01-14.47.38:805][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.02.01-14.47.38:820][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.02.01-14.47.38:834][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.02.01-14.47.38:848][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.02.01-14.47.38:870][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.02.01-14.47.38:920][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.02.01-14.47.38:920][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.02.01-14.47.38:920][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.01-14.47.38:999][  0]LogShaderCompilers: Guid format shader working directory is 30 characters bigger than the processId version (U:/GameJam/GameJam/Intermediate/Shaders/WorkingDirectory/12548/).
+[2020.02.01-14.47.38:999][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/t7040101/AppData/Local/Temp/UnrealShaderWorkingDir/591B3EDC41C0E65B67CD82BEB58ED84A/'.
+[2020.02.01-14.47.39:002][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.01-14.47.39:002][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.01-14.47.39:002][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.01-14.47.39:568][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.01-14.47.39:619][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/t7040101/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.02.01-14.47.39:619][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/t7040101/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.02.01-14.47.39:620][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file U:/GameJam/GameJam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.01-14.47.39:620][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.01-14.47.39:620][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file U:/GameJam/GameJam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.01-14.47.39:620][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.01-14.47.39:658][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.01-14.47.39:658][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.01-14.47.39:658][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.01-14.47.39:670][  0]LogDerivedDataCache: Using Local data cache path C:/Users/t7040101/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.01-14.47.39:670][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.01-14.47.39:670][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.01-14.47.39:698][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.01-14.47.39:699][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.01-14.47.39:700][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.01-14.47.39:786][  0]LogAssetRegistry: FAssetRegistry took 0.0335 seconds to start up
+[2020.02.01-14.47.40:119][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.01-14.47.40:283][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.02.01-14.47.40:286][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.02.01-14.47.40:286][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.01-14.47.40:286][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.01-14.47.40:286][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.02.01-14.47.40:306][  0]LogNetVersion: Games_Jam 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2078756788)
+[2020.02.01-14.47.41:772][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.857087 seconds
+[2020.02.01-14.47.41:779][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.02.01-14.47.41:779][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.02.01-14.47.41:779][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.01-14.47.43:236][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.01-14.47.43:250][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.01-14.47.43:251][  0]LogDirectoryWatcher: A directory notification failed for 'U:/GameJam/GameJam/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.01-14.47.44:072][  0]SourceControl: Source control is disabled
+[2020.02.01-14.47.44:072][  0]SourceControl: Source control is disabled
+[2020.02.01-14.47.44:073][  0]SourceControl: Source control is disabled
+[2020.02.01-14.47.44:074][  0]SourceControl: Source control is disabled
+[2020.02.01-14.47.44:332][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.01-14.47.44:466][  0]LogOcInput: OculusInput pre-init called
+[2020.02.01-14.47.44:627][  0]LogEngine: Initializing Engine...
+[2020.02.01-14.47.44:628][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.01-14.47.44:629][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.02.01-14.47.44:629][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.02.01-14.47.44:630][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2020.02.01-14.47.44:630][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.02.01-14.47.44:941][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.01-14.47.44:954][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.01-14.47.45:031][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.47.45:175][  0]LogInit: FAudioDevice initialized.
+[2020.02.01-14.47.45:176][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.01-14.47.45:280][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/t7040101/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.02.01-14.47.45:291][  0]LogInit: Texture streaming: Enabled
+[2020.02.01-14.47.45:309][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.01-14.47.45:324][  0]LogInit: Transaction tracking system initialized
+[2020.02.01-14.47.45:354][  0]BlueprintLog: New page: Editor Load
+[2020.02.01-14.47.45:476][  0]LocalizationService: Localization service is disabled
+[2020.02.01-14.47.46:712][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.01-14.47.46:712][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.01-14.47.46:712][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.02.01-14.47.46:712][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.02.01-14.47.46:712][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.02.01-14.47.46:713][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2020.02.01-14.47.46:713][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.02.01-14.47.46:845][  0]SourceControl: Source control is disabled
+[2020.02.01-14.47.46:845][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.01-14.47.46:845][  0]LightingResults: New page: Lighting Build
+[2020.02.01-14.47.46:848][  0]MapCheck: New page: Map Check
+[2020.02.01-14.47.46:848][  0]LightingResults: New page: Lighting Build
+[2020.02.01-14.47.47:024][  0]LogFileCache: Scanning file cache for directory 'U:/GameJam/GameJam/Content/' took 0.28s
+[2020.02.01-14.47.47:028][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.01-14.47.47:037][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.01-14.47.47:076][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.01-14.47.47:077][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.171ms to complete.
+[2020.02.01-14.47.47:077][  0]LogFileHelpers: Loading map 'Template_Default' took 0.232
+[2020.02.01-14.47.47:222][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.47.47:229][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.47.47:236][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.47.47:243][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.47.47:257][  0]LogCollectionManager: Loaded 0 collections in 0.009644 seconds
+[2020.02.01-14.47.47:335][  0]LogFileCache: Scanning file cache for directory 'U:/GameJam/GameJam/Saved/Collections/' took 0.05s
+[2020.02.01-14.47.47:335][  0]LogFileCache: Scanning file cache for directory 'U:/GameJam/GameJam/Content/Developers/t7040101/Collections/' took 0.00s
+[2020.02.01-14.47.47:335][  0]LogFileCache: Scanning file cache for directory 'U:/GameJam/GameJam/Content/Collections/' took 0.02s
+[2020.02.01-14.47.47:335][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.01-14.47.47:357][  0]LogContentBrowser: Native class hierarchy populated in 0.0216 seconds. Added 2651 classes and 620 folders.
+[2020.02.01-14.47.47:367][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.01-14.47.47:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:373][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:376][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:376][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:377][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:378][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:378][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:380][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:380][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:381][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:383][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:383][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:384][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:385][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:385][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:386][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:389][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:390][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-14.47.47:432][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.01-14.47.47:437][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.02.01-14.47.47:465][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.01-14.47.47:467][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.01-14.47.47:471][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.01-14.47.47:557][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2020.02.01-14.47.47:675][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.02.01-14.47.47:675][  0]LogLoad: (Engine Initialization) Total time: 14.27 seconds
+[2020.02.01-14.47.47:675][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.01-14.47.47:758][  0]LogDirectoryWatcher: A directory notification failed for 'U:/GameJam/GameJam/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.01-14.47.47:759][  0]LogDirectoryWatcher: A directory notification failed for 'U:/GameJam/GameJam/Content/', and we were unable to create a new request.
+[2020.02.01-14.47.47:759][  0]LogDirectoryWatcher: A directory notification failed for 'U:/GameJam/GameJam/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.01-14.47.47:759][  0]LogDirectoryWatcher: A directory notification failed for 'U:/GameJam/GameJam/Content/Developers/t7040101/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.01-14.47.47:759][  0]LogDirectoryWatcher: A directory notification failed for 'U:/GameJam/GameJam/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.01-14.47.47:763][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.01-14.47.47:784][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.01-14.47.47:816][  2]LogDirectoryWatcher: A directory notification failed for 'U:/GameJam/GameJam/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.01-14.47.47:816][  2]LogDirectoryWatcher: A directory notification failed for 'U:/GameJam/GameJam/Saved/Collections/', and we were unable to create a new request.
+[2020.02.01-14.47.47:816][  2]LogDirectoryWatcher: A directory notification failed for 'U:/GameJam/GameJam/Content/Developers/t7040101/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.01-14.47.47:817][  2]LogDirectoryWatcher: A directory notification failed for 'U:/GameJam/GameJam/Content/Developers/t7040101/Collections/', and we were unable to create a new request.
+[2020.02.01-14.47.47:817][  2]LogDirectoryWatcher: A directory notification failed for 'U:/GameJam/GameJam/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.02.01-14.47.47:820][  2]LogDirectoryWatcher: A directory notification failed for 'U:/GameJam/GameJam/Content/Collections/', and we were unable to create a new request.
+[2020.02.01-14.47.48:687][ 93]LogAssetRegistry: Asset discovery search completed in 8.9244 seconds
+[2020.02.01-14.47.48:689][ 93]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.02.01-14.47.48:689][ 93]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2020.02.01-14.47.51:524][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.47.53:695][680]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.01-14.47.54:133][680]LogStaticMesh: Building static mesh SM_WateringCan...
+[2020.02.01-14.47.54:145][680]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SM_WateringCan.SM_WateringCan
+[2020.02.01-14.47.54:175][680]LogStaticMesh: Building static mesh SM_Soil_NoPlant...
+[2020.02.01-14.47.54:178][680]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/SM_Soil_NoPlant.SM_Soil_NoPlant
+[2020.02.01-14.47.54:179][680]LogStaticMesh: Building static mesh SM_Boat...
+[2020.02.01-14.47.54:188][680]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SM_Boat.SM_Boat
+[2020.02.01-14.47.54:193][680]LogStaticMesh: Building static mesh SM_Cactus...
+[2020.02.01-14.47.54:207][680]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SM_Cactus.SM_Cactus
+[2020.02.01-14.47.54:211][680]LogStaticMesh: Building static mesh SM_GachaMachine...
+[2020.02.01-14.47.54:219][680]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SM_GachaMachine.SM_GachaMachine
+[2020.02.01-14.47.54:222][680]LogStaticMesh: Building static mesh SM_Soil_Seeds...
+[2020.02.01-14.47.54:229][680]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SM_Soil_Seeds.SM_Soil_Seeds
+[2020.02.01-14.47.54:236][680]LogStaticMesh: Building static mesh SM_Sunflower...
+[2020.02.01-14.47.54:259][680]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/SM_Sunflower.SM_Sunflower
+[2020.02.01-14.47.54:263][680]LogStaticMesh: Building static mesh SM_Tree...
+[2020.02.01-14.47.54:270][680]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SM_Tree.SM_Tree
+[2020.02.01-14.47.54:281][680]LogStaticMesh: Building static mesh SM_TrumpetPlant...
+[2020.02.01-14.47.54:316][680]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/SM_TrumpetPlant.SM_TrumpetPlant
+[2020.02.01-14.47.54:329][680]LogStaticMesh: Building static mesh SM_Tulips...
+[2020.02.01-14.47.54:376][680]LogStaticMesh: Built static mesh [0.05s] /Game/Meshes/SM_Tulips.SM_Tulips
+[2020.02.01-14.47.54:397][680]LogStaticMesh: Building static mesh SM_UltraRarePlant...
+[2020.02.01-14.47.54:471][680]LogStaticMesh: Built static mesh [0.07s] /Game/Meshes/SM_UltraRarePlant.SM_UltraRarePlant
+[2020.02.01-14.47.54:480][680]LogStaticMesh: Building static mesh SM_Well...
+[2020.02.01-14.47.54:490][680]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SM_Well.SM_Well
+[2020.02.01-14.47.54:539][680]LogAIModule: Creating AISystem for world Level_Ref
+[2020.02.01-14.47.54:558][680]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Level_Ref.Level_Ref
+[2020.02.01-14.47.54:591][680]Cmd: MAP LOAD FILE="U:/GameJam/GameJam/Content/FirstPersonBP/Maps/Level_Ref.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.01-14.47.54:591][680]LightingResults: New page: Lighting Build
+[2020.02.01-14.47.54:591][680]LoadErrors: New page: Loading map: Level_Ref.umap
+[2020.02.01-14.47.54:592][680]MapCheck: New page: Map Check
+[2020.02.01-14.47.54:592][680]LightingResults: New page: Lighting Build
+[2020.02.01-14.47.54:654][680]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.01-14.47.54:710][680]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.01-14.47.54:711][680]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.176ms to complete.
+[2020.02.01-14.47.54:711][680]LogFileHelpers: Loading map 'Level_Ref' took 0.121
+[2020.02.01-14.47.59:329][191]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-14.48.00:739][349]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.01-14.48.05:464][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.48.05:834][868]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-14.48.05:846][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.48.05:847][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.48.05:847][868]PIE: New page: PIE session: Level_Ref (1 Feb 2020 14:48:05)
+[2020.02.01-14.48.05:859][868]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref
+[2020.02.01-14.48.05:889][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028282s)
+[2020.02.01-14.48.05:889][868]LogAIModule: Creating AISystem for world Level_Ref
+[2020.02.01-14.48.05:889][868]LogPlayLevel: PIE: World Init took: (0.000492s)
+[2020.02.01-14.48.05:890][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level_Ref.Level_Ref to /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref (0.030343s)
+[2020.02.01-14.48.05:936][868]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.48.05:973][868]LogInit: FAudioDevice initialized.
+[2020.02.01-14.48.05:980][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.48.06:128][868]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.48.06:135][868]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref up for play (max tick rate 0) at 2020.02.01-14.48.06
+[2020.02.01-14.48.06:136][868]LogWorld: Bringing up level for play took: 0.004770
+[2020.02.01-14.48.06:157][868]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.02.01-14.48.06:162][868]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref -0.211
+[2020.02.01-14.48.06:164][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.48.06:197][868]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2020.02.01-14.49.22:321][971]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.49.22:321][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.49.22:335][971]LogSlate: Window 'Games_Jam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-14.49.22:382][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.49.22:383][971]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.49.22:437][972]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.02.01-14.49.23:856][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.49.28:456][677]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.02.01-14.49.28:902][677]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 117 classes and 0 folders.
+[2020.02.01-14.49.29:707][677]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.01-14.49.29:945][678]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.01-14.49.34:745][  5]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Plant_BP.Plant_BP
+[2020.02.01-14.50.34:859][868]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-14.50.34:872][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.50.34:872][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.50.34:872][868]PIE: New page: PIE session: Level_Ref (1 Feb 2020 14:50:34)
+[2020.02.01-14.50.34:872][868]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref
+[2020.02.01-14.50.34:898][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025142s)
+[2020.02.01-14.50.34:898][868]LogAIModule: Creating AISystem for world Level_Ref
+[2020.02.01-14.50.34:899][868]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2020.02.01-14.50.34:899][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level_Ref.Level_Ref to /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref (0.025796s)
+[2020.02.01-14.50.34:950][868]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.50.34:986][868]LogInit: FAudioDevice initialized.
+[2020.02.01-14.50.34:992][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.50.35:032][868]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.50.35:035][868]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref up for play (max tick rate 0) at 2020.02.01-14.50.35
+[2020.02.01-14.50.35:035][868]LogWorld: Bringing up level for play took: 0.002947
+[2020.02.01-14.50.35:055][868]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref 0.681
+[2020.02.01-14.50.35:056][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.51.18:932][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.51.18:933][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.51.18:951][426]LogSlate: Window 'Games_Jam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-14.51.19:006][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.51.19:006][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.51.19:292][427]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.01-14.51.39:077][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.52.06:041][472]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.02.01-14.52.06:128][472]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a Plant_BP_C, therefore ' Target ' must have a connection.
+[2020.02.01-14.52.06:347][472]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0272.94] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 304 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2020.02.01-14.52.22:773][220]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-14.52.33:500][379]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.02.01-14.52.35:709][578]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.02.01-14.52.38:298][800]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-14.52.38:326][800]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.52.38:326][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.52.38:326][800]PIE: New page: PIE session: Level_Ref (1 Feb 2020 14:52:38)
+[2020.02.01-14.52.38:326][800]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref
+[2020.02.01-14.52.38:351][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024927s)
+[2020.02.01-14.52.38:351][800]LogAIModule: Creating AISystem for world Level_Ref
+[2020.02.01-14.52.38:351][800]LogPlayLevel: PIE: World Init took: (0.000536s)
+[2020.02.01-14.52.38:351][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level_Ref.Level_Ref to /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref (0.025567s)
+[2020.02.01-14.52.38:421][800]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.52.38:479][800]LogInit: FAudioDevice initialized.
+[2020.02.01-14.52.38:488][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.52.38:525][800]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.52.38:533][800]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref up for play (max tick rate 0) at 2020.02.01-14.52.38
+[2020.02.01-14.52.38:533][800]LogWorld: Bringing up level for play took: 0.007254
+[2020.02.01-14.52.38:555][800]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref 0.182
+[2020.02.01-14.52.38:556][800]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.53.23:867][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.53.23:867][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.53.23:884][947]LogSlate: Window 'Games_Jam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-14.53.23:964][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.53.23:964][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.53.24:115][948]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.02.01-14.53.25:159][ 58]LogEditorViewport: Clicking on Actor (LMB): Plant_BP_C (Plant_BP5)
+[2020.02.01-14.53.32:087][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.53.37:551][288]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.01-14.54.08:305][116]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.02.01-14.54.10:670][298]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-14.54.10:698][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.54.10:698][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.54.10:698][298]PIE: New page: PIE session: Level_Ref (1 Feb 2020 14:54:10)
+[2020.02.01-14.54.10:699][298]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref
+[2020.02.01-14.54.10:723][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024823s)
+[2020.02.01-14.54.10:724][298]LogAIModule: Creating AISystem for world Level_Ref
+[2020.02.01-14.54.10:724][298]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2020.02.01-14.54.10:724][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level_Ref.Level_Ref to /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref (0.025440s)
+[2020.02.01-14.54.10:795][298]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.54.10:854][298]LogInit: FAudioDevice initialized.
+[2020.02.01-14.54.10:864][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.54.10:907][298]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.54.10:912][298]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref up for play (max tick rate 0) at 2020.02.01-14.54.10
+[2020.02.01-14.54.10:912][298]LogWorld: Bringing up level for play took: 0.004729
+[2020.02.01-14.54.10:932][298]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref 0.558
+[2020.02.01-14.54.10:933][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.54.13:442][533]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.13:442][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.14:729][676]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.14:729][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.15:617][774]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.15:617][774]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.16:618][882]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.16:619][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.17:172][944]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.17:172][944]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.18:425][ 80]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.18:426][ 80]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.18:897][132]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.18:897][132]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.19:197][164]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.19:197][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.19:477][193]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.19:477][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.20:875][348]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.20:875][348]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.21:157][379]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.21:157][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.21:420][406]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.21:420][406]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.21:671][433]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.21:671][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.21:968][465]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.21:968][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.22:236][493]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.22:236][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.22:526][524]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.22:526][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.22:823][557]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0288
+[2020.02.01-14.54.22:823][557]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.23:080][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.23:379][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.23:688][647]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.23:953][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.24:210][701]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.24:455][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.24:838][769]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.54.26:290][923]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.54.26:290][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.54.26:306][923]LogSlate: Window 'Games_Jam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-14.54.26:370][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.54.26:370][923]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.54.26:440][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-14.54.26:573][924]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.01-14.54.30:673][287]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-14.54.30:677][287]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-14.54.33:400][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.55.01:913][519]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-14.55.01:925][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.55.01:925][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.55.01:925][519]PIE: New page: PIE session: Level_Ref (1 Feb 2020 14:55:01)
+[2020.02.01-14.55.01:925][519]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref
+[2020.02.01-14.55.01:950][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024814s)
+[2020.02.01-14.55.01:950][519]LogAIModule: Creating AISystem for world Level_Ref
+[2020.02.01-14.55.01:950][519]LogPlayLevel: PIE: World Init took: (0.000498s)
+[2020.02.01-14.55.01:950][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level_Ref.Level_Ref to /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref (0.025422s)
+[2020.02.01-14.55.02:013][519]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.55.02:059][519]LogInit: FAudioDevice initialized.
+[2020.02.01-14.55.02:064][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.55.02:107][519]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.55.02:110][519]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref up for play (max tick rate 0) at 2020.02.01-14.55.02
+[2020.02.01-14.55.02:111][519]LogWorld: Bringing up level for play took: 0.003000
+[2020.02.01-14.55.02:131][519]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref -0.242
+[2020.02.01-14.55.02:132][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.55.04:810][714]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.55.05:257][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.55.05:628][780]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.55.05:944][805]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.55.06:189][823]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.55.06:470][844]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.55.06:729][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.55.07:012][887]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.55.07:290][909]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.55.07:595][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.55.07:880][955]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.55.08:146][976]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.55.08:448][  0]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.55.08:678][ 17]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsPlant_BP". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.55.09:331][ 68]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.55.09:331][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.55.09:347][ 68]LogSlate: Window 'Games_Jam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-14.55.09:419][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.55.09:419][ 68]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.55.09:488][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-14.55.09:636][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.01-14.55.17:520][727]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-14.55.17:524][727]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-14.55.18:035][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.55.25:168][539]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.02.01-14.55.25:239][539]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a Plant_BP_C, therefore ' Target ' must have a connection.
+[2020.02.01-14.55.25:449][539]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0472.05] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 281 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2020.02.01-14.55.37:775][835]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.01-14.55.54:729][653]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.02.01-14.55.59:083][ 91]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.02.01-14.55.59:991][138]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-14.56.00:018][138]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.56.00:018][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.56.00:018][138]PIE: New page: PIE session: Level_Ref (1 Feb 2020 14:56:00)
+[2020.02.01-14.56.00:018][138]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref
+[2020.02.01-14.56.00:043][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024668s)
+[2020.02.01-14.56.00:043][138]LogAIModule: Creating AISystem for world Level_Ref
+[2020.02.01-14.56.00:043][138]LogPlayLevel: PIE: World Init took: (0.000490s)
+[2020.02.01-14.56.00:043][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level_Ref.Level_Ref to /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref (0.025266s)
+[2020.02.01-14.56.00:110][138]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.56.00:153][138]LogInit: FAudioDevice initialized.
+[2020.02.01-14.56.00:161][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.56.00:202][138]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.56.00:210][138]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref up for play (max tick rate 0) at 2020.02.01-14.56.00
+[2020.02.01-14.56.00:210][138]LogWorld: Bringing up level for play took: 0.007344
+[2020.02.01-14.56.00:232][138]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref -0.142
+[2020.02.01-14.56.00:233][138]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.56.02:870][393]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.56.02:871][393]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.56.04:050][522]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.56.04:050][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.56.05:041][630]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.56.05:041][630]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.56.05:697][702]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.56.05:697][702]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.56.06:315][770]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.56.06:316][770]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.56.08:007][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.56.08:008][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.56.08:022][949]LogSlate: Window 'Games_Jam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-14.56.08:071][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.56.08:071][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.56.08:138][949]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-14.56.08:279][950]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.01-14.56.11:254][263]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-14.56.11:258][263]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-14.56.12:266][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.56.14:609][623]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.02.01-14.56.15:400][666]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-14.56.15:428][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.56.15:428][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.56.15:428][666]PIE: New page: PIE session: Level_Ref (1 Feb 2020 14:56:15)
+[2020.02.01-14.56.15:428][666]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref
+[2020.02.01-14.56.15:454][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025662s)
+[2020.02.01-14.56.15:454][666]LogAIModule: Creating AISystem for world Level_Ref
+[2020.02.01-14.56.15:455][666]LogPlayLevel: PIE: World Init took: (0.000506s)
+[2020.02.01-14.56.15:455][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level_Ref.Level_Ref to /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref (0.026277s)
+[2020.02.01-14.56.15:520][666]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.56.15:569][666]LogInit: FAudioDevice initialized.
+[2020.02.01-14.56.15:579][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.56.15:619][666]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.56.15:623][666]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref up for play (max tick rate 0) at 2020.02.01-14.56.15
+[2020.02.01-14.56.15:623][666]LogWorld: Bringing up level for play took: 0.003811
+[2020.02.01-14.56.15:641][666]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref -0.733
+[2020.02.01-14.56.15:654][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.56.25:529][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.56.25:529][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.56.25:546][720]LogSlate: Window 'Games_Jam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-14.56.25:604][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.56.25:605][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.56.25:793][721]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.01-14.56.28:118][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.56.47:935][191]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.02.01-14.56.49:363][303]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-14.56.49:392][303]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.56.49:392][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.56.49:392][303]PIE: New page: PIE session: Level_Ref (1 Feb 2020 14:56:49)
+[2020.02.01-14.56.49:392][303]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref
+[2020.02.01-14.56.49:416][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024394s)
+[2020.02.01-14.56.49:417][303]LogAIModule: Creating AISystem for world Level_Ref
+[2020.02.01-14.56.49:417][303]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2020.02.01-14.56.49:417][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level_Ref.Level_Ref to /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref (0.025041s)
+[2020.02.01-14.56.49:491][303]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.56.49:557][303]LogInit: FAudioDevice initialized.
+[2020.02.01-14.56.49:566][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.56.49:604][303]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.56.49:609][303]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref up for play (max tick rate 0) at 2020.02.01-14.56.49
+[2020.02.01-14.56.49:609][303]LogWorld: Bringing up level for play took: 0.004382
+[2020.02.01-14.56.49:627][303]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref -0.747
+[2020.02.01-14.56.49:628][303]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.56.58:359][238]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.56.58:359][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.56.58:374][238]LogSlate: Window 'Games_Jam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-14.56.58:423][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.56.58:423][238]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.56.58:615][239]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.01-14.56.59:420][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.57.11:510][650]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.02.01-14.57.13:654][832]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-14.57.13:682][832]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.57.13:682][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.57.13:682][832]PIE: New page: PIE session: Level_Ref (1 Feb 2020 14:57:13)
+[2020.02.01-14.57.13:682][832]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref
+[2020.02.01-14.57.13:707][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024462s)
+[2020.02.01-14.57.13:707][832]LogAIModule: Creating AISystem for world Level_Ref
+[2020.02.01-14.57.13:707][832]LogPlayLevel: PIE: World Init took: (0.000470s)
+[2020.02.01-14.57.13:707][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level_Ref.Level_Ref to /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref (0.025032s)
+[2020.02.01-14.57.13:775][832]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.57.13:817][832]LogInit: FAudioDevice initialized.
+[2020.02.01-14.57.13:825][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.57.13:864][832]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.57.13:869][832]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref up for play (max tick rate 0) at 2020.02.01-14.57.13
+[2020.02.01-14.57.13:869][832]LogWorld: Bringing up level for play took: 0.004234
+[2020.02.01-14.57.13:887][832]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref -0.487
+[2020.02.01-14.57.13:888][832]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.57.23:080][809]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.57.23:080][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.57.23:096][809]LogSlate: Window 'Games_Jam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-14.57.23:150][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.57.23:150][809]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.57.23:321][810]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.01-14.57.24:020][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.57.25:398][ 23]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.02.01-14.57.25:398][ 23]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2020.02.01-14.57.25:398][ 23]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.02.01-14.57.25:398][ 23]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.02.01-14.57.25:398][ 23]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.02.01-14.57.25:398][ 23]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2020.02.01-14.57.25:398][ 23]LogUObjectGlobals: Warning: Failed to find object 'Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial'
+[2020.02.01-14.58.30:651][719]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.02.01-14.58.31:762][798]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-14.58.31:791][798]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.58.31:791][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-14.58.31:791][798]PIE: New page: PIE session: Level_Ref (1 Feb 2020 14:58:31)
+[2020.02.01-14.58.31:791][798]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref
+[2020.02.01-14.58.31:815][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024382s)
+[2020.02.01-14.58.31:816][798]LogAIModule: Creating AISystem for world Level_Ref
+[2020.02.01-14.58.31:816][798]LogPlayLevel: PIE: World Init took: (0.000503s)
+[2020.02.01-14.58.31:816][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level_Ref.Level_Ref to /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref (0.024993s)
+[2020.02.01-14.58.31:879][798]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-14.58.31:922][798]LogInit: FAudioDevice initialized.
+[2020.02.01-14.58.31:928][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.58.31:964][798]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-14.58.31:967][798]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref up for play (max tick rate 0) at 2020.02.01-14.58.31
+[2020.02.01-14.58.31:968][798]LogWorld: Bringing up level for play took: 0.002951
+[2020.02.01-14.58.31:984][798]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref -0.389
+[2020.02.01-14.58.31:987][798]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.58.34:495][ 37]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.34:495][ 37]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.35:617][166]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.35:617][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.37:121][336]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.37:121][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.38:463][482]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.38:463][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.39:515][598]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.39:515][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.41:275][794]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.41:276][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.41:674][839]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.41:674][839]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.42:402][919]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.42:402][919]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.43:147][  3]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.43:147][  3]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.43:659][ 61]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.43:659][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.45:409][249]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.45:409][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.45:957][310]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.45:957][310]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.46:272][342]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.46:272][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.46:565][374]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.46:565][374]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.46:836][405]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.46:837][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.47:136][437]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.47:136][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.47:432][465]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.47:433][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.47:682][493]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.47:682][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.47:977][520]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.47:978][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.48:243][549]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 5 in '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter'!
+[2020.02.01-14.58.48:243][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Planted
+[2020.02.01-14.58.49:970][736]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.58.49:970][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-14.58.49:987][736]LogSlate: Window 'Games_Jam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-14.58.50:054][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-14.58.50:054][736]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-14.58.50:116][736]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-14.58.50:269][737]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.01-14.58.56:083][286]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-14.58.56:086][286]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-14.58.56:844][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-14.59.19:157][123]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-14.59.57:001][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-15.00.04:095][ 28]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.02.01-15.02.02:196][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Level_Ref" FILE="U:/GameJam/GameJam/Saved/Autosaves/Game/FirstPersonBP/Maps/Level_Ref_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.01-15.02.09:285][715]LogSavePackage: Moving 'U:/GameJam/GameJam/Saved/Level_Ref_Auto177A1028A4906F851912CABAC5F058A9D.tmp' to 'U:/GameJam/GameJam/Saved/Autosaves/Game/FirstPersonBP/Maps/Level_Ref_Auto1.umap'
+[2020.02.01-15.02.09:321][715]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Level_Ref' took 7.196
+[2020.02.01-15.02.09:321][715]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 7.196
+[2020.02.01-15.02.09:325][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.02.01-15.02.09:358][715]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.02.01-15.02.09:358][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.02.01-15.02.12:310][715]LogSavePackage: Moving 'U:/GameJam/GameJam/Saved/FirstPersonCharacter_Auto1489D9FDF41104D632057E5A0897DBC7F.tmp' to 'U:/GameJam/GameJam/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2020.02.01-15.02.12:347][715]LogFileHelpers: Auto-saving content packages took 3.023
+[2020.02.01-15.03.03:020][871]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.02.01-15.03.12:246][735]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref
+[2020.02.01-15.03.18:673][396]BlueprintLog: New page: Compile Level_Ref
+[2020.02.01-15.03.20:751][607]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-15.03.20:763][607]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-15.03.20:763][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-15.03.20:763][607]PIE: New page: PIE session: Level_Ref (1 Feb 2020 15:03:20)
+[2020.02.01-15.03.20:763][607]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref
+[2020.02.01-15.03.20:788][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024673s)
+[2020.02.01-15.03.20:788][607]LogAIModule: Creating AISystem for world Level_Ref
+[2020.02.01-15.03.20:788][607]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2020.02.01-15.03.20:788][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level_Ref.Level_Ref to /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref (0.025280s)
+[2020.02.01-15.03.20:849][607]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-15.03.20:899][607]LogInit: FAudioDevice initialized.
+[2020.02.01-15.03.20:906][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.03.20:946][607]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-15.03.20:954][607]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref up for play (max tick rate 0) at 2020.02.01-15.03.20
+[2020.02.01-15.03.20:955][607]LogWorld: Bringing up level for play took: 0.007719
+[2020.02.01-15.03.20:977][607]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref 0.607
+[2020.02.01-15.03.20:978][607]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-15.03.35:223][246]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-15.03.35:223][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.03.35:240][246]LogSlate: Window 'Games_Jam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-15.03.35:283][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-15.03.35:283][246]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-15.03.35:377][247]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.02.01-15.03.40:755][843]BlueprintLog: New page: Compile Level_Ref
+[2020.02.01-15.03.40:762][843]LogBlueprint: Error: [Compiler PersistentLevel.Level_Ref] This blueprint (self) is not a Plant_BP_C, therefore ' Target ' must have a connection.
+[2020.02.01-15.03.40:939][843]LogBlueprint: Warning: [Compiler PersistentLevel.Level_Ref] [0967.54] Compile of PersistentLevel.Level_Ref failed. 1 Fatal Issue(s) 0 Warning(s) [in 184 ms] (/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref)
+[2020.02.01-15.03.51:623][ 35]BlueprintLog: New page: Compile Level_Ref
+[2020.02.01-15.03.51:630][ 35]LogBlueprint: Warning: [Compiler PersistentLevel.Level_Ref] Cast To Plant_BP  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.02.01-15.03.51:631][ 35]LogBlueprint: Error: [Compiler PersistentLevel.Level_Ref] This blueprint (self) is not a Plant_BP_C, therefore ' Target ' must have a connection.
+[2020.02.01-15.03.51:808][ 35]LogBlueprint: Warning: [Compiler PersistentLevel.Level_Ref] [0978.41] Compile of PersistentLevel.Level_Ref failed. 1 Fatal Issue(s) 1 Warning(s) [in 184 ms] (/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref)
+[2020.02.01-15.03.57:224][626]BlueprintLog: New page: Compile Level_Ref
+[2020.02.01-15.03.57:231][626]LogBlueprint: Error: [Compiler PersistentLevel.Level_Ref] The type of  Object  is undetermined.  Connect something to  Cast To Plant_BP  to imply a specific type.
+[2020.02.01-15.03.57:231][626]LogBlueprint: Error: [Compiler PersistentLevel.Level_Ref] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.02.01-15.03.57:413][626]LogBlueprint: Warning: [Compiler PersistentLevel.Level_Ref] [0984.02] Compile of PersistentLevel.Level_Ref failed. 2 Fatal Issue(s) 0 Warning(s) [in 188 ms] (/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref)
+[2020.02.01-15.04.15:736][630]BlueprintLog: New page: Compile Level_Ref
+[2020.02.01-15.04.17:448][802]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-15.04.17:460][802]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-15.04.17:460][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-15.04.17:460][802]PIE: New page: PIE session: Level_Ref (1 Feb 2020 15:04:17)
+[2020.02.01-15.04.17:460][802]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref
+[2020.02.01-15.04.17:485][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024630s)
+[2020.02.01-15.04.17:485][802]LogAIModule: Creating AISystem for world Level_Ref
+[2020.02.01-15.04.17:486][802]LogPlayLevel: PIE: World Init took: (0.000487s)
+[2020.02.01-15.04.17:486][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level_Ref.Level_Ref to /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref (0.025219s)
+[2020.02.01-15.04.17:557][802]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-15.04.17:602][802]LogInit: FAudioDevice initialized.
+[2020.02.01-15.04.17:612][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.04.17:648][802]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.01-15.04.17:652][802]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref.Level_Ref up for play (max tick rate 0) at 2020.02.01-15.04.17
+[2020.02.01-15.04.17:653][802]LogWorld: Bringing up level for play took: 0.004198
+[2020.02.01-15.04.17:671][802]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level_Ref -0.698
+[2020.02.01-15.04.17:672][802]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-15.04.26:579][837]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-15.04.26:579][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.04.26:594][837]LogSlate: Window 'Games_Jam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-15.04.26:633][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-15.04.26:634][837]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref' with GeneratedClass '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level_Ref.Level_Ref:PersistentLevel.Level_Ref'
+[2020.02.01-15.04.26:727][838]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.02.01-15.04.42:806][444]LogUObjectBase: Warning: Object is not registered
+[2020.02.01-15.04.42:807][444]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.01-15.04.43:649][444]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.843 s
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: 
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: Stack: 
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff07008304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff070181ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff0583bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff0489769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff04850917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff08297c74 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff084e4393 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff082f2d7a UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff082c8a70 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff082bb263 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff34b7dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff34b70de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff34b801eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff34b6ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff54597446 USER32.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff54596f62 USER32.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007fff34b81746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007ff6cb455546 UE4Editor.exe!UnknownFunction []
+[2020.02.01-15.04.43:649][444]LogOutputDevice: Error: [Callstack] 0x00007ff6cb46596c UE4Editor.exe!UnknownFunction []
+[2020.02.01-15.04.43:650][444]LogOutputDevice: Error: [Callstack] 0x00007ff6cb4659ea UE4Editor.exe!UnknownFunction []
+[2020.02.01-15.04.43:650][444]LogOutputDevice: Error: [Callstack] 0x00007ff6cb4748da UE4Editor.exe!UnknownFunction []
+[2020.02.01-15.04.43:650][444]LogOutputDevice: Error: [Callstack] 0x00007ff6cb47659a UE4Editor.exe!UnknownFunction []
+[2020.02.01-15.04.43:650][444]LogOutputDevice: Error: [Callstack] 0x00007fff54c47974 KERNEL32.DLL!UnknownFunction []
+[2020.02.01-15.04.43:650][444]LogOutputDevice: Error: [Callstack] 0x00007fff5507a271 ntdll.dll!UnknownFunction []
+[2020.02.01-15.04.43:650][444]LogOutputDevice: Error: 
+[2020.02.01-15.04.43:660][444]LogStats:                SubmitErrorReport -  0.000 s
